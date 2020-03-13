@@ -1,0 +1,2 @@
+# EcoQueries
+SQL For OpenMRS
